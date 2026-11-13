@@ -2,7 +2,7 @@ package co.edu.uniquindio.ecoruta;
 
 import java.util.List;
 
-public class PruebasEcoRuta {
+public class  PruebasEcoRuta {
 
     public static void ejecutarTodas() {
         System.out.println("======================================================================");
